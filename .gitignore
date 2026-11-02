@@ -1,0 +1,16 @@
+bin/
+build/
+dbfiles/
+datas/
+.vscode/
+.idea/
+cmake-build-debug/
+cmake-build-release/
+databases/
+
+# 测试/运行生成的文件
+*.db
+tree_*.txt
+*Zone.Identifier
+*.log
+build*.log
